@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @miksw7
-- 👀 I’m IOS Dev
+- IOS Dev
 
 <!---
 miksw7/miksw7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
